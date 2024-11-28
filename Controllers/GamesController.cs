@@ -9,7 +9,7 @@ using RestAPI_oppgave.Data;
 namespace RestAPI_oppgave.Controllers
 {
 
-    [Route("api/movies")]
+    [Route("api/games")]
     [ApiController]
     public class GamesController : ControllerBase
     {
