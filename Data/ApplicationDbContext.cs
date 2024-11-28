@@ -9,6 +9,10 @@ namespace RestAPI_oppgave.Data
 {
      public class ApplicationDbContext : DbContext
     {
+        public ApplicationDbContext(DbContextOptions dbContextOptions) : base(dbContextOptions)
+        {
+
+        }
         public DbSet<Movie> Movies { get; set; }
         public DbSet<Game> Games {get; set;}
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
