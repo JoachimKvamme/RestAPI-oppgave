@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestAPI-oppgave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a65c0bbde8d6c16f49750534c240efcbb5c2cc1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5c5c2b3d9353ec7d6776c15a906a88bc835eab6")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestAPI-oppgave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestAPI-oppgave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
